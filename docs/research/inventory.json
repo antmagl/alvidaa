@@ -332,7 +332,7 @@
       "browser": "Chromium 111 (armv7l; UA SurfMaster/3.0.1)",
       "build_date": "2026-07-07",
       "tested_by": [
-        "owner (this session)"
+        "gh:antmagl"
       ],
       "capabilities": {
         "pairing": "working",
